@@ -1,0 +1,22 @@
+#logo {
+    padding: 10px;
+    height: 50px;
+}
+
+.nav {
+    color: grey;
+}
+
+.header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
+
+.mission-brackground {
+    height: 700px;
+}
+
+.mission {
+    display: flex;
+    justify-content: center;
+}
